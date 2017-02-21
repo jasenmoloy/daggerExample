@@ -1,4 +1,4 @@
-package com.geometricbits.daggerexamples.di;
+package com.geometricbits.daggerexamples.di.modules;
 
 
 import android.content.res.Resources;

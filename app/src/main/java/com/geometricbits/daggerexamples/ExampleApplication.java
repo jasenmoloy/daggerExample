@@ -2,7 +2,7 @@ package com.geometricbits.daggerexamples;
 
 import android.app.Application;
 
-import com.geometricbits.daggerexamples.di.AppModule;
+import com.geometricbits.daggerexamples.di.modules.AppModule;
 import com.geometricbits.daggerexamples.di.ApplicationComponent;
 import com.geometricbits.daggerexamples.di.DaggerApplicationComponent;
 
